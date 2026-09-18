@@ -6,17 +6,17 @@ export const profile = {
   name: 'Chekonda Alex Nitin',
   shortName: 'Alex Nitin',
   initials: 'CN',
-  title: 'Azure Cloud Engineer',
-  subtitle: 'Cloud Capacity & Incident Management',
+  title: 'Cloud Engineer & Website Operations Professional',
+  subtitle: 'Azure Cloud Infrastructure & Website/App Operations',
   location: 'Hyderabad, Telangana, India',
   email: 'chekondaalexnitin@gmail.com',
   phone: '+91 8328086697',
   phoneHref: 'tel:+918328086697',
   availability: 'Immediately available',
   intro:
-    "Azure Cloud Engineer with hands-on experience in Azure Compute capacity management and incident resolution for enterprise customers on Microsoft's Global Capacity Team at LTIMindtree — VM allocation troubleshooting, quota management, root cause analysis, and SLA-driven incident management across Resource Groups, VM Scale Sets, and Availability Zones.",
+    "Cloud Engineer with hands-on Azure Compute capacity and incident management experience on Microsoft's Global Capacity Team at LTIMindtree, combined with website and app operations experience from a high-traffic D2C ecommerce platform at Mamaearth (Honasa Consumer) — covering site/app performance, analytics (Power BI, GA4, Firebase), and cross-functional execution. That mix gives me both the technical grounding to support infrastructure and a practical, data-driven approach to improving digital products.",
   about: [
-    "I work at the intersection of cloud infrastructure and digital operations. On Microsoft's Global Capacity Team at LTIMindtree, I troubleshoot Azure Compute allocation failures, manage quota requests (RDQs) and incident cases (ICMs), and run root cause analysis across Resource Groups, VM Scale Sets, and Availability Zones — all under SLA.",
+    "My background sits at the intersection of cloud infrastructure and digital operations. On Microsoft's Global Capacity Team at LTIMindtree, I troubleshot Azure Compute allocation failures, managed quota requests (RDQs) and incident cases (ICMs), and ran root cause analysis across Resource Groups, VM Scale Sets, and Availability Zones — all under SLA.",
     "Before that, I ran website and app operations for Mamaearth (Honasa Consumer Ltd.), a high-traffic D2C ecommerce platform — working across Power BI, GA4, Firebase, AppsFlyer, and MoEngage to monitor performance and partnering with engineering, marketing, and design to ship improvements. That combination gives me a practical read on both infrastructure reliability and digital growth.",
   ],
   strengths: [
@@ -88,7 +88,7 @@ export const experience: ExperienceEntry[] = [
     company: 'Mamaearth (Honasa Consumer Ltd.)',
     role: 'Website & App Operations Intern',
     duration: 'Aug 2024 – Jan 2025',
-    location: 'Hyderabad, India',
+    location: 'Gurugram, India',
     summary:
       "Independently contributed to the development and optimization of the company's homepage and mobile app experience on a high-traffic D2C ecommerce platform, improving usability, engagement, and site performance.",
     responsibilities: [
